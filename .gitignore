@@ -3,4 +3,7 @@
 .project
 .settings/
 Drivers/
+Debug/
 *.ld
+*.sal
+*Debug.launch
